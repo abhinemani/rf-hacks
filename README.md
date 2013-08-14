@@ -1,3 +1,3 @@
 rf-hacks
 ========
-These is a description for a potential civic app.
+These are potential projects brainstormed by the CfA network that could help, well, America.

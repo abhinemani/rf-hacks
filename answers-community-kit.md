@@ -23,4 +23,4 @@ Code for America can put you in touch with the creators and original users of Ho
 How To Start
 --------
 
-Visit [Honolulu Answers](http://answers.honolulu.gov/) and [Oakland Answers](http://answers.oaklandnet.com/) to get a feel for the application. Try to answer a few questions for your own city yourself. Contact [Abhi Nemani](abhi@codeforamerica.org) at Code for America to coordinate your work, or send a Github pull request to this repository.
+Visit [Honolulu Answers](http://answers.honolulu.gov/) and [Oakland Answers](http://answers.oaklandnet.com/) to get a feel for the application. Try to answer a few questions for your own city yourself. Contact [Abhi Nemani](mailto:abhi@codeforamerica.org) at Code for America to coordinate your work, or send a Github pull request to this repository.

@@ -8,6 +8,7 @@ Shovel-ready
 --------
 
 * [Answers Community Kit](answers-community-kit.md)
+* [Census Area API](census-area-API.md)
 * [Map Open Data Catalogs](data-catalog-mapping.md)
 * [Optimize Answers](answers-seo-optimization.md)
 
@@ -19,5 +20,4 @@ Needs Work
 * [Add SMS to Ohana](ohana-text-message-API.md)
 * [Broken Windows](broken-windows.md)
 * [Can I Park Here?](can-i-park-here.md)
-* [Census Area API](census-area-API.md)
 * [Scrape Open Data Catalogs](data-catalog-scraping.md)
